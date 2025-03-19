@@ -1,0 +1,181 @@
+.header{
+    width: 100%;
+    height: 130px;
+    background: rgb(0, 210, 198);
+    position: fixed;
+    z-index: 100;
+    
+}
+body{
+    margin: 0%;
+}
+.img1 {
+    height: 75px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.mainpage {
+    width: 100%;
+    margin-top: 132px;;
+}
+.logo{
+   float: left; 
+   width: 50%;
+}
+.left-section{
+    float: left;
+    padding-top: -100px;
+    display: flex;
+    gap: 30px;
+    width: 50%;
+   
+}
+.frstwrite{
+    width: 50%;
+    display: flex;
+    gap: 20px;
+    padding-top: 39px;
+    text-decoration: none;
+}
+.frstwrite a{
+    color: rgb(254, 255, 255);
+    font-size: 25px;
+    display: flex;
+    text-decoration: none;
+    font-family: "Korolev";
+    
+}
+.applogos img{
+    height: 25px;
+    padding-left: 0px;
+    padding-top: 39px;
+}
+.mainpage{
+    width: 100%;
+}
+.secondpagetext{
+    margin-top: -490PX;
+    margin-left: 50px;
+}
+.mainpage2{
+    width: 100%;
+    margin-top: 227px;
+}
+.thirdpage-text{
+    width: 703px;
+    margin-top: -426px;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    padding: 10px 0px 43px;
+    height: 160px;
+    position: relative;
+    margin-left: 401px;
+}
+.recipe-text {
+    margin-top: 16px;
+    height: 150px;
+    text-transform: uppercase;
+    font-family: 'korolev';
+    margin-left: 250px;
+    color: azure;
+}
+.text-p {
+    margin-top: -125px;
+    font-family: 'korolev';
+    font-size: 17px;
+    padding: 10px 177px;
+    font-family: 'korolev';
+    font: bold;
+    color: azure;
+    font-weight: lighter;
+}
+.button-banner1 {
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 7px 36px;
+    font-size: 15px;
+    color: white;
+    font-size: 19px;
+    font-family: 'korolev';
+    margin-left: 235px;
+    text-decoration: none;
+    padding-left: 45px;
+}
+.lastpage-img{
+    width: 100%;
+    margin-top: 209px;
+}
+.store-text{
+    margin-top: 16px;
+    height: 150px;
+    text-transform: uppercase;
+    font-family: 'korolev';
+    color: azure;
+    width: 100%;
+    padding-left: 192px;
+
+}
+.text-store{
+    margin-top: -125px;
+    font-size: 17px;
+    font-family: 'korolev';
+    color: azure;
+    font-weight: lighter;
+    padding-left: 93px;
+
+}
+.button-banner2{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 7px 36px;
+    color: white;
+    font-size: 19px;
+    font-family: 'korolev';
+    margin-left: 235px;
+    text-decoration: none;
+    padding-left: 40px;
+
+}
+.lastpage-text{
+    width: 703px;
+    margin-top: -426px;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    padding: 10px 0px 43px;
+    height: 160px;
+    position: relative;
+    margin-left: 401px;
+}
+.footer{
+    width: 100%;
+    height: 126px;
+    background: #3e3e3e;
+    font-family: 'korolev';
+    margin-top: 209px;
+}
+.footer-list{
+    display: flex;
+    text-decoration: none;
+    font-size: 17px;
+    padding-top: 20px;
+    padding-left: 320px;
+    gap: 25px;
+    font-size: smaller;
+}
+.footer-list a{
+    color: azure;
+    text-decoration: none;
+}
+.footer-list li{
+    list-style: none;
+}
+.end-text{
+    color: azure;
+    padding-left: 500px;
+    font-size: xx-small;
+    margin-top: 20px;
+}
+
+
